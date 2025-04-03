@@ -1,0 +1,2 @@
+git status:
+        to check if any changes are there in repo
